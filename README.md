@@ -23,8 +23,6 @@ https://github.com/MariPriz/MariPriz/blob/main/BPMN_Booking_site.png
     https://github.com/MariPriz/MariPriz/blob/main/Final_work_SQL.pdf  
   SQL-запросы к итоговой работе:
     https://github.com/MariPriz/MariPriz/blob/main/sql_final.sql 
-
-:heavy_check_mark: Работать с JSON и XML
  
 ### :mortar_board: Сертификаты Нетологии 
 + Анализ требований https://github.com/MariPriz/MariPriz/blob/main/Requirements_analysis.pdf 
