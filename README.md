@@ -9,7 +9,7 @@
   - ER-диаграмма (сущность-связь)
   - API, используя нотацию OpenAPI, инструмент Swagger и методы протокола HTTP: GET, POST, PUT, DELETE https://app.swaggerhub.com/apis-docs/Rikki-tikki-tavi/OnlineCinema/1.0.0 
 
-:heavy_check_mark: Составлять техническое задание по ГОСТ 19.201-78 
+:heavy_check_mark: Составлять техническое задание по ГОСТ 19.201-78  
 https://github.com/MariPriz/MariPriz/blob/main/Specification_GOST_19.201-78.pdf 
 
 :heavy_check_mark: Моделировать процессы в нотации BPMN 2.0
